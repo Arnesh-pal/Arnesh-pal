@@ -1,7 +1,4 @@
-- 👋 Hi, I’m Arnesh 
-- 👀 I’m good in Java and Python
-- 🌱 I’m currently learning Web Development and Machine Learning
-- 📫 How to reach me ( My email: arneshpal000@gmail.com)
+ Passionate about AI, ML, and Full Stack Dev—turning coffee into code and ideas into impact! ☕🔥
 
 <!---
 Arnesh-pal/Arnesh-pal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
