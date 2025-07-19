@@ -1,4 +1,8 @@
-<h1 align="center">👋 Hey there, I'm Arnesh Pal</h1>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;It's+Arnesh;&center=true&size=30">
+  </a>
+</h1>
 
 <p align="center">
   <i>🚀 Passionate about <b>AI</b>, <b>Machine Learning</b>, and <b>Full Stack Development</b><br>
@@ -9,7 +13,7 @@
   <img src="https://komarev.com/ghpvc/?username=Arnesh-pal&style=flat-square&color=6f42c1" alt="GitHub profile views" />
 </p>
 
----
+---a
 
 ## 🌌 Tech Stack
 
