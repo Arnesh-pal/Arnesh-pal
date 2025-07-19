@@ -1,7 +1,19 @@
- Passionate about AI, ML, and Full Stack Dev—turning coffee into code and ideas into impact! ☕🔥
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Arnesh-pal)
+<h1 align="center">👋 Hey there, I'm Arnesh Pal</h1>
 
-<!---
-Arnesh-pal/Arnesh-pal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  <i>🚀 Passionate about <b>AI</b>, <b>Machine Learning</b>, and <b>Full Stack Development</b><br>
+  Turning <code>coffee</code> into <code>code</code> & ideas into impact! ☕🔥</i>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Arnesh-pal&style=flat-square&color=6f42c1" alt="GitHub profile views" />
+</p>
+
+---
+
+## 🌌 Tech Stack
+
+```yaml
+Languages:       [ HTML, CSS, JavaScript, Python, Java ]
+Frameworks:      [ TailwindCSS, Astro, React, Node.js ]
+Tools & Others:  [ Git, GitHub, PostgreSQL, Prisma, VS Code ]
