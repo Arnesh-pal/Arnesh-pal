@@ -13,8 +13,6 @@
   <img src="https://komarev.com/ghpvc/?username=Arnesh-pal&style=flat-square&color=6f42c1" alt="GitHub profile views" />
 </p>
 
----a
-
 ## 🌌 Tech Stack
 
 ```yaml
