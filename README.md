@@ -23,14 +23,6 @@ Tools & Others:  [ Git, GitHub, PostgreSQL, Prisma, VS Code ]
 
 <div align="center">
   <h2 align="center">📊 My GitHub Stats</h2>
-  <table align="center">
-    <tr>
-      <td align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=Arnesh-pal&show_icons=true&theme=dracula&count_private=true&hide_border=true" alt="Arnesh's GitHub Stats" />
-      </td>
-      <td align="center">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arnesh-pal&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
 </div>
