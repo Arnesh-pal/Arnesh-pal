@@ -21,8 +21,8 @@ Frameworks:      [ TailwindCSS, Astro, React, Node.js ]
 Tools & Others:  [ Git, GitHub, PostgreSQL, Prisma, VS Code ]
 ```
 
+## 📊 My GitHub Stats
 <div align="center">
-  <h2 align="center">📊 My GitHub Stats</h2>
         <img src="https://github-readme-stats.vercel.app/api?username=Arnesh-pal&show_icons=true&theme=dracula&count_private=true&hide_border=true" alt="Arnesh's GitHub Stats" />
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arnesh-pal&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
 </div>
