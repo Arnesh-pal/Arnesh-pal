@@ -6,7 +6,7 @@
 
 <p align="center">
   <i>🚀 Passionate about <b>AI</b>, <b>Machine Learning</b>, and <b>Full Stack Development</b><br>
-  Turning <code>coffee</code> into <code>code</code> & ideas into impact! ☕🔥</i>
+  Turning ☕︎ <code>coffee</code> into <code>code</code> & ideas into impact! ☕🔥</i>
 </p>
 
 <p align="center">
