@@ -25,7 +25,7 @@ Tools & Others:  [ Git, GitHub, PostgreSQL, Prisma, VS Code ]
 📧 Email: arneshpal000@gmail.com
 
 ## Want to know more about me:
-👀 Portfolio: https://portfolio-six-snowy-25.vercel.app/
+👀 Portfolio: [https://portfolio-six-snowy-25.vercel.app/](https://portfolio-1-khaki-nine.vercel.app/)
 
 ## 📊 My GitHub Stats
 <div align="center">
