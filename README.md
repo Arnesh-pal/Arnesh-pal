@@ -36,18 +36,18 @@ Tools & Others:  [ Git, GitHub, PostgreSQL, Prisma, VS Code ]
 <h2 align="center">🏅 Hacktoberfest Badges</h2>
 
 <p align="center">
-  <em>My Holopin achievements from Hacktoberfest 🎉</em>
+  <em>My Holopin achievements from Hacktoberfest 2023 🎉</em>
 </p>
 
 <p align="center">
-  <a href="https://holopin.io/badge/cmh46fiyy002bl704s5jwwbmg" target="_blank">
-    <img src="https://holopin.io/api/user/badge?id=cmh46fiyy002bl704s5jwwbmg" width="130" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
+  <a href="https://www.holopin.io/userbadge/cmh46fiyy002bl704s5jwwbmg" target="_blank">
+    <img src="https://holopin.io/api/user/badge?id=cmh46fiyy002bl704s5jwwbmg" width="130" alt="Holopin badge ID cmh46fiyy002bl704s5jwwbmg" />
   </a>
-  <a href="https://holopin.io/badge/cln715dzh04490gmhz6o8jkz3" target="_blank">
-    <img src="https://holopin.io/api/user/badge?id=cln715dzh04490gmhz6o8jkz3" width="130" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
+  <a href="https://www.holopin.io/hacktoberfest2023/userbadge/cln715dzh04490gmhz6o8jkz3" target="_blank">
+    <img src="https://holopin.io/api/user/badge?id=cln715dzh04490gmhz6o8jkz3" width="130" alt="Holopin badge ID cln715dzh04490gmhz6o8jkz3" />
   </a>
-  <a href="https://holopin.io/badge/cln7176vh12370fl105mzp17a" target="_blank">
-    <img src="https://holopin.io/api/user/badge?id=cln7176vh12370fl105mzp17a" width="130" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
+  <a href="https://www.holopin.io/userbadge/cln7176vh12370fl105mzp17a" target="_blank">
+    <img src="https://holopin.io/api/user/badge?id=cln7176vh12370fl105mzp17a" width="130" alt="Holopin badge ID cln7176vh12370fl105mzp17a" />
   </a>
 </p>
 
