@@ -37,7 +37,7 @@ Tools & Others:  [ Git, GitHub, PostgreSQL, Prisma, VS Code ]
 
 <p align="center">
   <a href="https://holopin.io/@arneshpal">
-    <img src="https://holopin.me/arneshpal?v=1" width="500" alt="@arneshpal's Holopin board" />
+    <img src="https://holopin.me/arneshpal?v=1" style="max-width: 90%; height: auto;" alt="@arneshpal's Holopin board" />
   </a>
 </p>
 
