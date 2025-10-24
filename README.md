@@ -34,24 +34,16 @@ Tools & Others:  [ Git, GitHub, PostgreSQL, Prisma, VS Code ]
 </div>
 
 <h2 align="center">🏅 Hacktoberfest Badges</h2>
-[![An image of @arneshpal's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/arneshpal?v=1)](https://holopin.io/@arneshpal)
-<p align="center">
-  <em>My Holopin achievements from Hacktoberfest 2023 🎉</em>
-</p>
 
 <p align="center">
-  <a href="https://www.holopin.io/userbadge/cmh46fiyy002bl704s5jwwbmg" target="_blank">
-    <img src="https://holopin.io/api/user/badge?id=cmh46fiyy002bl704s5jwwbmg" width="130" alt="Holopin badge ID cmh46fiyy002bl704s5jwwbmg" />
-  </a>
-  <a href="https://www.holopin.io/hacktoberfest2023/userbadge/cln715dzh04490gmhz6o8jkz3" target="_blank">
-    <img src="https://holopin.io/api/user/badge?id=cln715dzh04490gmhz6o8jkz3" width="130" alt="Holopin badge ID cln715dzh04490gmhz6o8jkz3" />
-  </a>
-  <a href="https://www.holopin.io/userbadge/cln7176vh12370fl105mzp17a" target="_blank">
-    <img src="https://holopin.io/api/user/badge?id=cln7176vh12370fl105mzp17a" width="130" alt="Holopin badge ID cln7176vh12370fl105mzp17a" />
+  <a href="https://holopin.io/@arneshpal">
+    <img src="https://holopin.me/arneshpal?v=1" width="500" alt="@arneshpal's Holopin board" />
   </a>
 </p>
 
 <p align="center">
+  <em>My Holopin achievements from Hacktoberfest 2023 🎉</em><br/>
   <a href="https://holopin.io/@arneshpal" target="_blank">View my full Holopin profile →</a>
 </p>
+
 
