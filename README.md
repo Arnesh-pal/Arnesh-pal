@@ -34,7 +34,7 @@ Tools & Others:  [ Git, GitHub, PostgreSQL, Prisma, VS Code ]
 </div>
 
 <h2 align="center">🏅 Hacktoberfest Badges</h2>
-[![An image of @arneshpal's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/arneshpal)](https://holopin.io/@arneshpal)
+[![An image of @arneshpal's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/arneshpal?v=1)](https://holopin.io/@arneshpal)
 <p align="center">
   <em>My Holopin achievements from Hacktoberfest 2023 🎉</em>
 </p>
