@@ -33,7 +33,7 @@ Tools & Others:  [ Git, GitHub, PostgreSQL, Prisma, VS Code ]
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arnesh-pal&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
 </div>
 
-<h2 align="center">🏅 Hacktoberfest Badges</h2>
+<h2 align="center">🏅 Holopin Badges</h2>
 
 <p align="center">
   <a href="https://holopin.io/@arneshpal">
