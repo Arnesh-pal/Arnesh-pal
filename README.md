@@ -27,12 +27,6 @@ Tools & Others:  [ Git, GitHub, PostgreSQL, Prisma, VS Code ]
 ## Want to know more about me:
 👀 Portfolio: [https://arneshpal000.netlify.app/](https://arneshpal000.netlify.app/)
 
-## 📊 My GitHub Stats
-<div align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Arnesh-pal&show_icons=true&theme=dracula&count_private=true&hide_border=true" alt="Arnesh's GitHub Stats" />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arnesh-pal&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
-</div>
-
 <h2 align="center">🏅 Holopin Badges</h2>
 
 <p align="center">
