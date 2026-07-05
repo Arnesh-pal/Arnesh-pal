@@ -9,10 +9,6 @@
   Turning ☕︎ <code>coffee</code> into <code>code</code> & ideas into impact! ☕🔥</i>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Arnesh-pal&style=flat-square&color=6f42c1" alt="GitHub profile views" />
-</p>
-
 ## 🌌 Tech Stack
 
 ```yaml
